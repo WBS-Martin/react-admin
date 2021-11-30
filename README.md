@@ -1,4 +1,4 @@
-# SHowcase project using react-admin
+# Showcase project using react-admin
 
 [React Admin Docs](https://marmelab.com/react-admin/)
 
